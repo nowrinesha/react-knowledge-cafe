@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/images/book1-cover.jpg",
+      "title": "The Mystery of the Lost Key",
+      "author": "Alice Doe",
+      "author_img": "https://example.com/images/alice-doe.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["#mystery", "#thriller", "#fiction", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/book2-cover.jpg",
+      "title": "The Art of Digital Mindfulness",
+      "author": "John Smith",
+      "author_img": "https://example.com/images/john-smith.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 12,
+      "hashtags": ["#selfhelp", "#mindfulness", "#technology", "#lifestyle"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/book3-cover.jpg",
+      "title": "Exploring the Cosmos: A Beginner's Guide",
+      "author": "Emily Clarke",
+      "author_img": "https://example.com/images/emily-clarke.jpg",
+      "posted_date": "2024-08-22",
+      "reading_time": 15,
+      "hashtags": ["#science", "#astronomy", "#space", "#education"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/book4-cover.jpg",
+      "title": "Culinary Delights: A Journey Through World Cuisines",
+      "author": "Marco Rivera",
+      "author_img": "https://example.com/images/marco-rivera.jpg",
+      "posted_date": "2024-09-29",
+      "reading_time": 10,
+      "hashtags": ["#food", "#cooking", "#recipes", "#travel"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/book5-cover.jpg",
+      "title": "The Evolution of Artificial Intelligence",
+      "author": "Sophia Lee",
+      "author_img": "https://example.com/images/sophia-lee.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 20,
+      "hashtags": ["#AI", "#technology", "#innovation", "#future"]
+    }
+  ]
+  
