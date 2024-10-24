@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "cover": "https://example.com/images/book1-cover.jpg",
+      "cover": "https://i.ibb.co.com/VxkJW4k/1.jpg",
       "title": "The Mystery of the Lost Key",
       "author": "Alice Doe",
-      "author_img": "https://example.com/images/alice-doe.jpg",
+      "author_img": "https://i.ibb.co.com/BCd0Fn4/boy1.png",
       "posted_date": "2024-09-15",
       "reading_time": 8,
       "hashtags": ["#mystery", "#thriller", "#fiction", "#adventure"]
     },
     {
       "id": 2,
-      "cover": "https://example.com/images/book2-cover.jpg",
+      "cover": "https://i.ibb.co.com/KNTRbvg/2.png",
       "title": "The Art of Digital Mindfulness",
       "author": "John Smith",
-      "author_img": "https://example.com/images/john-smith.jpg",
+      "author_img": "https://i.ibb.co.com/PG8dH5R/boy2.jpg",
       "posted_date": "2024-10-05",
       "reading_time": 12,
       "hashtags": ["#selfhelp", "#mindfulness", "#technology", "#lifestyle"]
     },
     {
       "id": 3,
-      "cover": "https://example.com/images/book3-cover.jpg",
+      "cover": "https://i.ibb.co.com/hX67P33/3.png",
       "title": "Exploring the Cosmos: A Beginner's Guide",
       "author": "Emily Clarke",
-      "author_img": "https://example.com/images/emily-clarke.jpg",
+      "author_img": "https://i.ibb.co.com/7v3WC4K/girl1.jpg",
       "posted_date": "2024-08-22",
       "reading_time": 15,
       "hashtags": ["#science", "#astronomy", "#space", "#education"]
     },
     {
       "id": 4,
-      "cover": "https://example.com/images/book4-cover.jpg",
+      "cover": "https://i.ibb.co.com/C094Bwq/4.jpg",
       "title": "Culinary Delights: A Journey Through World Cuisines",
       "author": "Marco Rivera",
-      "author_img": "https://example.com/images/marco-rivera.jpg",
+      "author_img": "https://i.ibb.co.com/PWnjpcd/girl2.jpg",
       "posted_date": "2024-09-29",
       "reading_time": 10,
       "hashtags": ["#food", "#cooking", "#recipes", "#travel"]
     },
     {
       "id": 5,
-      "cover": "https://example.com/images/book5-cover.jpg",
+      "cover": "https://i.ibb.co.com/XLCxJLq/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
       "title": "The Evolution of Artificial Intelligence",
       "author": "Sophia Lee",
-      "author_img": "https://example.com/images/sophia-lee.jpg",
+      "author_img": "https://i.ibb.co.com/Wk4bcLK/girl3.jpg",
       "posted_date": "2024-10-10",
       "reading_time": 20,
       "hashtags": ["#AI", "#technology", "#innovation", "#future"]
